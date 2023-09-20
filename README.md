@@ -1,2 +1,8 @@
-# P2-Python_ImagesFilters
-Second Python project of the first semester of my first year (freshman)
+# Image Filters - Python Project #2
+
+## This project was a work in pairs in which we had to manipulate the pixels of photos and create different types of filters such as:
+- invert colors
+- make photo blurry
+- flip photo vertically
+- invert photo horizontally
+- make a tile filter
